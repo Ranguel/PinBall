@@ -4,7 +4,7 @@ Physics-based pinball prototype made in Unity (1:1 scale, real-world dimensions)
 
 ## Video demo
 
-(link)
+https://github.com/user-attachments/assets/a3d7b1f7-745a-4952-8740-7dc2f8377d87
 
 ## Version
 
